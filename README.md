@@ -1,2 +1,1 @@
-# Knrl-executor
-Knrl script executor for roblox
+Watch a yt tutorial if you dont know how to use an executor
